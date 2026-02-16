@@ -1,5 +1,7 @@
-venv_gui/
 venv311/
+venv_gui/
 build/
 output/
 annotations/
+*.pyc
+__pycache__/
